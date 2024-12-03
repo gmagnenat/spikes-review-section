@@ -28,13 +28,13 @@ export default function RootLayout({
         <div className="absolute min-h-screen h-full inset-0 flex flex-col justify-between -z-10">
           <GridPattern
             className="rotate-180 w-full"
-            preserveAspectRatio="none"
+            preserveAspectRatio="xMidYMid slice"
             role="img"
             aria-hidden="true"
           />
           <GridPattern
             className="w-full"
-            preserveAspectRatio="none"
+            preserveAspectRatio="xMidYMid slice"
             role="img"
             aria-hidden="true"
           />

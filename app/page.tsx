@@ -8,8 +8,8 @@ export default function Home() {
       <h1 className="sr-only">
         Spikes - Transforme ton portfolio en aimant à client.
       </h1>
-      <div className="h-screen bg-gradient-to-b from-purple-500/10 via-black to-purple-500/10">
-        <div className="flex flex-col min-h-screen">
+      <div className="bg-gradient-to-b from-purple-500/10 via-black to-purple-500/10">
+        <div className="flex flex-col min-h-svh h-full">
           <div className="py-12 flex justify-center">
             <Logo />
           </div>
