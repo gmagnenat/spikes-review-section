@@ -89,12 +89,12 @@ export function Reviews() {
   return (
     <div className="flex flex-col">
       <div className="relative flex w-full flex-col items-center justify-center overflow-hidden rounded-lg md:shadow-xl gap-4">
-        <Marquee pauseOnHover className="[--duration:80s] p-0">
+        <Marquee className="[--duration:80s] p-0">
           {firstRow.map((review, index) => (
             <ReviewCard key={index} {...review} />
           ))}
         </Marquee>
-        <Marquee pauseOnHover reverse className="[--duration:80s] p-0">
+        <Marquee reverse className="[--duration:80s] p-0">
           {secondRow.map((review, index) => (
             <ReviewCard key={index} {...review} />
           ))}
