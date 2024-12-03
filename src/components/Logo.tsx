@@ -8,7 +8,7 @@ const Logo = () => {
       className="flex items-center gap-2 focus:outline-purple-500 focus:outline-offset-4 focus:outline-none"
     >
       <SpikesIcon className="w-8 h-8" role="img" aria-label="Spikes" />
-      <p className="font-bold">Spikes</p>
+      <p className="font-medium font-aeonik text-2xl">Spikes</p>
     </Link>
   );
 };

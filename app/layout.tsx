@@ -7,7 +7,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Spikes - Bienvenue !",
-  description: "Challenge gratuit de Spikes par @0xEzis",
+  description: "Un challenge proposé par Spikes. intégré par @magnenatg",
 };
 
 export default function RootLayout({
