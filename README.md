@@ -45,6 +45,6 @@ Guidelines for contributing to the project.
 
 ## Contact
 
-Gwenaël Magnenat - [LinkedIn]("https://linkedin.com/in/gmagnenat")
+Gwenaël Magnenat - [LinkedIn](https://linkedin.com/in/gmagnenat)
 
 Live URL: [https://keen-queijadas-ce6df2.netlify.app/](https://keen-queijadas-ce6df2.netlify.app/)
